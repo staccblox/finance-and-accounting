@@ -1,3 +1,0 @@
-BEGIN;
-text(1, "Hello World!");
-END FINISH;
